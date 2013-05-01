@@ -1,0 +1,11 @@
+1 -- +infinity 		= obstacle tile
+0 			= air
+-1			= ladder
+-2			= processed path
+-3			= horizontal path
+-4			= vertical path
+-5			= win state
+-6			= chaser spawn
+-7			= chaser stop
+-8			= processed chaser spawn
+-10 -- -infinity	= background tile
