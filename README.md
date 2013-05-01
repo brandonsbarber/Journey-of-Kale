@@ -1,8 +1,7 @@
 # Game - Programming Assignments Private Repository
 ### Student Information
   + Name: Brandon Barber
-  + USC Email: bsbarber@usc.edu
-  + USC ID: 4211034830
+  + Personal Email: brandonsbarber@gmail.com
 
 ### Game Information
   + Game Name: The Journey of Kale
@@ -21,5 +20,5 @@ make
 doxygen -g
 doxygen Doxyfile
 #Command to run
-./game_bsbarber
+./directory_name
 ```
